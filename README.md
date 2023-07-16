@@ -5,20 +5,6 @@ description: >-
 cover: >-
   https://images.unsplash.com/photo-1621282850054-48af032ff6dc?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx3YXRlciUyMHBpcGVzfGVufDB8fHx8MTY4OTQ4Njg5MHww&ixlib=rb-4.0.3&q=85
 coverY: 111
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Introduction to Majidata System
