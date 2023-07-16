@@ -14,7 +14,7 @@ QGIS is open-source GIS software available to use for free and has various plugi
 
 QGIS can be downloaded through this [LINK](https://qgis.org/en/site/forusers/download.html)&#x20;
 
-![](https://lh4.googleusercontent.com/eSnq3r7Q6eOWCxxwAJSLW94zUeOSpXvBVX31ffG-gzGOf6ftYeWUmqjjzIvJl8cfzhW3xnMF197LxK2ZJUbsxHRqQIjNSh9WEa9OpDwDAsE151CWJclrQQkPXE92ZNUE8zjrNadS4bC2r\_wHhAplbg)
+<figure><img src="https://lh4.googleusercontent.com/eSnq3r7Q6eOWCxxwAJSLW94zUeOSpXvBVX31ffG-gzGOf6ftYeWUmqjjzIvJl8cfzhW3xnMF197LxK2ZJUbsxHRqQIjNSh9WEa9OpDwDAsE151CWJclrQQkPXE92ZNUE8zjrNadS4bC2r_wHhAplbg" alt=""><figcaption></figcaption></figure>
 
 2. #### Data Model from WASREB
 
