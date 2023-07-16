@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction to Majidata System](README.md)
+  * [Geoffrey Kirui](https://gisforwaterandsanitation.odoo.com/)
 * [Network GIS data for WSPs](network-gis-data-for-wsps.md)
 * [How to prepare GIS data](how-to-prepare-gis-data.md)
 * [Understanding Network GIS layers](understanding-network-gis-layers.md)

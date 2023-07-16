@@ -9,6 +9,8 @@ coverY: 111
 
 # Introduction to Majidata System
 
+## [Geoffrey Kirui 7/14/2023](https://gisforwaterandsanitation.odoo.com/)
+
 **Introduction to MajiData system**
 
 In Kenya, access to clean and safe water is essential for the well-being of its citizens. To ensure the effective management and regulation of water resources, the Kenyan government has implemented a comprehensive information system known as Majidata. This system plays a crucial role in monitoring, regulating, and improving the water sector in the country. Majidata serves as a centralized platform that enables water regulators to collect, analyze, and disseminate vital information for informed decision-making and efficient water resource management.
