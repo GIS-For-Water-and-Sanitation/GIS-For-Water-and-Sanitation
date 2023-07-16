@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page contains Understanding System Architecture, and Harmonization of GIS
-  data,
+  This page contains Network GIS data for WSPs, Understanding System
+  Architecture, and Harmonization of GIS data,
 ---
 
 # Network GIS data for WSPs
