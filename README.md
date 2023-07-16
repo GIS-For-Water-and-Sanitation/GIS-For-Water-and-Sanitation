@@ -2,6 +2,10 @@
 description: >-
   This page contains the introduction to MajiData system, Network GIS data for
   WSPs, Understanding System Architecture, and Harmonization of GIS data
+cover: >-
+  https://images.unsplash.com/photo-1621282850054-48af032ff6dc?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx3YXRlciUyMHBpcGVzfGVufDB8fHx8MTY4OTQ4Njg5MHww&ixlib=rb-4.0.3&q=85
+coverY: 111
+layout: landing
 ---
 
 # Introduction to Majidata System
