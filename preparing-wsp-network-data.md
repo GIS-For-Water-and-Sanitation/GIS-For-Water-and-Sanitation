@@ -40,7 +40,7 @@ There are columns used to categorize or classify WSP Storage Facilities. These a
 
 Figure 0-3 Value Map functionality in QGIS 1
 
-<div data-full-width="true">
+<div data-full-width="false">
 
 <figure><img src="https://lh6.googleusercontent.com/bxNnLXn9meK6DMik9M2TpHcdXJWZasCaNq0iaCqdx7VOILZJmWedZZl8TyYOYMm6k5mkt_vxjqiC0L52KUvTkEYsc0GAbmHizhxROcb5d1nnBRptdTgdbm2lWcuxonvsK6jord7qzRNVQkQ4xsi8lA" alt=""><figcaption></figcaption></figure>
 
